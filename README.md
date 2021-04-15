@@ -3,7 +3,7 @@
 
 ### :information_source: **Nessa aplicação usando React, foi usado o useEffect para fazer uma aplicação simples, onde você aperta o botão de adicionar, ele vai contabilizando seus cliques, alterando o valor do título também e depois de cinco segundos, o site volta a contagem de 0 e o título volta para "React App".**
 
-### **Se você também quiser executar essa aplicação, acesse o o vídeo do Canal da Rockeseat no Youtube:**
+### **Se você também quiser executar essa aplicação, acesse o vídeo do Canal da Rockeseat no Youtube:**
 
 :link: **https://www.youtube.com/watch?v=jcc9T-5inrk**
 
